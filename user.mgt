@@ -1,0 +1,5 @@
+echo "please enter your name"
+read name
+echo "please enter your pin"
+read -s pin
+echo "Thank you for signing on"
