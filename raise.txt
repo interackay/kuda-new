@@ -11,4 +11,6 @@ bimpe 5m
 uche 450k
 george 800k
 mariah 1m
+thomas 3m
 james250k
+
