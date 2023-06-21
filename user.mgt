@@ -3,3 +3,4 @@ read name
 echo "please enter your pin"
 read -s pin
 echo "Thank you for signing on"
+echo "Welcome to Bluelite"
